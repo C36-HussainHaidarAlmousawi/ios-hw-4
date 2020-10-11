@@ -1,0 +1,452 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9713D56C2533198F00E966A6 /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9713D5692533198E00E966A6 /* Song.swift */; };
+		9713D56D2533198F00E966A6 /* SongsDataSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9713D56A2533198F00E966A6 /* SongsDataSet.swift */; };
+		9713D56E2533198F00E966A6 /* anime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9713D56B2533198F00E966A6 /* anime.swift */; };
+		976AB8EE2533178C0017E4FA /* animeTVCe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976AB8ED2533178C0017E4FA /* animeTVCe.swift */; };
+		976AB8FF253318FF0017E4FA /* SongsListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976AB8FB253318FF0017E4FA /* SongsListVC.swift */; };
+		976AB900253318FF0017E4FA /* SongsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976AB8FC253318FF0017E4FA /* SongsCell.swift */; };
+		976AB902253318FF0017E4FA /* SongVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976AB8FE253318FF0017E4FA /* SongVC.swift */; };
+		978B25F3253322F2000FA857 /* AnimeListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978B25F2253322F2000FA857 /* AnimeListVC.swift */; };
+		97A78116252CC2C7007CB8F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A78115252CC2C7007CB8F9 /* AppDelegate.swift */; };
+		97A78118252CC2C7007CB8F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97A78117252CC2C7007CB8F9 /* SceneDelegate.swift */; };
+		97A7811D252CC2C7007CB8F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97A7811B252CC2C7007CB8F9 /* Main.storyboard */; };
+		97A7811F252CC2C9007CB8F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97A7811E252CC2C9007CB8F9 /* Assets.xcassets */; };
+		97A78122252CC2C9007CB8F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97A78120252CC2C9007CB8F9 /* LaunchScreen.storyboard */; };
+		97DF31A6253382A30055C8A9 /* Naruto1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF319D253382A30055C8A9 /* Naruto1.mp3 */; };
+		97DF31A7253382A30055C8A9 /* Naruto2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF319E253382A30055C8A9 /* Naruto2.mp3 */; };
+		97DF31A8253382A30055C8A9 /* KNB2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF319F253382A30055C8A9 /* KNB2.mp3 */; };
+		97DF31A9253382A30055C8A9 /* OP3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A0253382A30055C8A9 /* OP3.mp3 */; };
+		97DF31AA253382A30055C8A9 /* KNB1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A1253382A30055C8A9 /* KNB1.mp3 */; };
+		97DF31AB253382A30055C8A9 /* OP1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A2253382A30055C8A9 /* OP1.mp3 */; };
+		97DF31AC253382A30055C8A9 /* OP2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A3253382A30055C8A9 /* OP2.mp3 */; };
+		97DF31AD253382A30055C8A9 /* KNB3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A4253382A30055C8A9 /* KNB3.mp3 */; };
+		97DF31AE253382A30055C8A9 /* Naruto3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A5253382A30055C8A9 /* Naruto3.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9713D5692533198E00E966A6 /* Song.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		9713D56A2533198F00E966A6 /* SongsDataSet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongsDataSet.swift; sourceTree = "<group>"; };
+		9713D56B2533198F00E966A6 /* anime.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = anime.swift; sourceTree = "<group>"; };
+		976AB8ED2533178C0017E4FA /* animeTVCe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = animeTVCe.swift; sourceTree = "<group>"; };
+		976AB8FB253318FF0017E4FA /* SongsListVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongsListVC.swift; sourceTree = "<group>"; };
+		976AB8FC253318FF0017E4FA /* SongsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongsCell.swift; sourceTree = "<group>"; };
+		976AB8FE253318FF0017E4FA /* SongVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongVC.swift; sourceTree = "<group>"; };
+		978B25F2253322F2000FA857 /* AnimeListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimeListVC.swift; sourceTree = "<group>"; };
+		97A78112252CC2C7007CB8F9 /* ios-hw4-p1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-hw4-p1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		97A78115252CC2C7007CB8F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		97A78117252CC2C7007CB8F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		97A7811C252CC2C7007CB8F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		97A7811E252CC2C9007CB8F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		97A78121252CC2C9007CB8F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		97A78123252CC2C9007CB8F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DF319D253382A30055C8A9 /* Naruto1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Naruto1.mp3; path = ../../../../Music/Naruto1.mp3; sourceTree = "<group>"; };
+		97DF319E253382A30055C8A9 /* Naruto2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Naruto2.mp3; path = ../../../../Music/Naruto2.mp3; sourceTree = "<group>"; };
+		97DF319F253382A30055C8A9 /* KNB2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB2.mp3; path = ../../../../Music/KNB2.mp3; sourceTree = "<group>"; };
+		97DF31A0253382A30055C8A9 /* OP3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = OP3.mp3; path = ../../../../Music/OP3.mp3; sourceTree = "<group>"; };
+		97DF31A1253382A30055C8A9 /* KNB1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB1.mp3; path = ../../../../Music/KNB1.mp3; sourceTree = "<group>"; };
+		97DF31A2253382A30055C8A9 /* OP1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = OP1.mp3; path = ../../../../Music/OP1.mp3; sourceTree = "<group>"; };
+		97DF31A3253382A30055C8A9 /* OP2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = OP2.mp3; path = ../../../../Music/OP2.mp3; sourceTree = "<group>"; };
+		97DF31A4253382A30055C8A9 /* KNB3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB3.mp3; path = ../../../../Music/KNB3.mp3; sourceTree = "<group>"; };
+		97DF31A5253382A30055C8A9 /* Naruto3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Naruto3.mp3; path = ../../../../Music/Naruto3.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		97A7810F252CC2C7007CB8F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9713D5682533198100E966A6 /* Models2 */ = {
+			isa = PBXGroup;
+			children = (
+				9713D56B2533198F00E966A6 /* anime.swift */,
+				9713D5692533198E00E966A6 /* Song.swift */,
+				9713D56A2533198F00E966A6 /* SongsDataSet.swift */,
+			);
+			path = Models2;
+			sourceTree = "<group>";
+		};
+		972AB29525309690007D1E26 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9713D5682533198100E966A6 /* Models2 */,
+				976AB8FA253318E90017E4FA /* New Group */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		972AB296253096C2007D1E26 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				976AB8ED2533178C0017E4FA /* animeTVCe.swift */,
+				976AB8FC253318FF0017E4FA /* SongsCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		972AB297253096E1007D1E26 /* story Boards */ = {
+			isa = PBXGroup;
+			children = (
+				97A7811B252CC2C7007CB8F9 /* Main.storyboard */,
+				97A78120252CC2C9007CB8F9 /* LaunchScreen.storyboard */,
+			);
+			path = "story Boards";
+			sourceTree = "<group>";
+		};
+		976AB8FA253318E90017E4FA /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				976AB8FB253318FF0017E4FA /* SongsListVC.swift */,
+				976AB8FE253318FF0017E4FA /* SongVC.swift */,
+				978B25F2253322F2000FA857 /* AnimeListVC.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		97A78109252CC2C7007CB8F9 = {
+			isa = PBXGroup;
+			children = (
+				97A78114252CC2C7007CB8F9 /* ios-hw4-p1 */,
+				97A78113252CC2C7007CB8F9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		97A78113252CC2C7007CB8F9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				97A78112252CC2C7007CB8F9 /* ios-hw4-p1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		97A78114252CC2C7007CB8F9 /* ios-hw4-p1 */ = {
+			isa = PBXGroup;
+			children = (
+				97DF31A1253382A30055C8A9 /* KNB1.mp3 */,
+				97DF319F253382A30055C8A9 /* KNB2.mp3 */,
+				97DF31A4253382A30055C8A9 /* KNB3.mp3 */,
+				97DF319D253382A30055C8A9 /* Naruto1.mp3 */,
+				97DF319E253382A30055C8A9 /* Naruto2.mp3 */,
+				97DF31A5253382A30055C8A9 /* Naruto3.mp3 */,
+				97DF31A2253382A30055C8A9 /* OP1.mp3 */,
+				97DF31A3253382A30055C8A9 /* OP2.mp3 */,
+				97DF31A0253382A30055C8A9 /* OP3.mp3 */,
+				97A78115252CC2C7007CB8F9 /* AppDelegate.swift */,
+				97A78117252CC2C7007CB8F9 /* SceneDelegate.swift */,
+				972AB297253096E1007D1E26 /* story Boards */,
+				972AB296253096C2007D1E26 /* Cells */,
+				972AB29525309690007D1E26 /* View Controllers */,
+				97A7811E252CC2C9007CB8F9 /* Assets.xcassets */,
+				97A78123252CC2C9007CB8F9 /* Info.plist */,
+			);
+			path = "ios-hw4-p1";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		97A78111252CC2C7007CB8F9 /* ios-hw4-p1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 97A78126252CC2C9007CB8F9 /* Build configuration list for PBXNativeTarget "ios-hw4-p1" */;
+			buildPhases = (
+				97A7810E252CC2C7007CB8F9 /* Sources */,
+				97A7810F252CC2C7007CB8F9 /* Frameworks */,
+				97A78110252CC2C7007CB8F9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ios-hw4-p1";
+			productName = "ios-hw4-p1";
+			productReference = 97A78112252CC2C7007CB8F9 /* ios-hw4-p1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		97A7810A252CC2C7007CB8F9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					97A78111252CC2C7007CB8F9 = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 97A7810D252CC2C7007CB8F9 /* Build configuration list for PBXProject "ios-hw4-p1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 97A78109252CC2C7007CB8F9;
+			productRefGroup = 97A78113252CC2C7007CB8F9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				97A78111252CC2C7007CB8F9 /* ios-hw4-p1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		97A78110252CC2C7007CB8F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				97DF31AC253382A30055C8A9 /* OP2.mp3 in Resources */,
+				97A78122252CC2C9007CB8F9 /* LaunchScreen.storyboard in Resources */,
+				97A7811F252CC2C9007CB8F9 /* Assets.xcassets in Resources */,
+				97DF31AA253382A30055C8A9 /* KNB1.mp3 in Resources */,
+				97A7811D252CC2C7007CB8F9 /* Main.storyboard in Resources */,
+				97DF31A9253382A30055C8A9 /* OP3.mp3 in Resources */,
+				97DF31A8253382A30055C8A9 /* KNB2.mp3 in Resources */,
+				97DF31AB253382A30055C8A9 /* OP1.mp3 in Resources */,
+				97DF31A6253382A30055C8A9 /* Naruto1.mp3 in Resources */,
+				97DF31AE253382A30055C8A9 /* Naruto3.mp3 in Resources */,
+				97DF31AD253382A30055C8A9 /* KNB3.mp3 in Resources */,
+				97DF31A7253382A30055C8A9 /* Naruto2.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		97A7810E252CC2C7007CB8F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9713D56E2533198F00E966A6 /* anime.swift in Sources */,
+				978B25F3253322F2000FA857 /* AnimeListVC.swift in Sources */,
+				97A78116252CC2C7007CB8F9 /* AppDelegate.swift in Sources */,
+				9713D56D2533198F00E966A6 /* SongsDataSet.swift in Sources */,
+				976AB900253318FF0017E4FA /* SongsCell.swift in Sources */,
+				97A78118252CC2C7007CB8F9 /* SceneDelegate.swift in Sources */,
+				9713D56C2533198F00E966A6 /* Song.swift in Sources */,
+				976AB8EE2533178C0017E4FA /* animeTVCe.swift in Sources */,
+				976AB902253318FF0017E4FA /* SongVC.swift in Sources */,
+				976AB8FF253318FF0017E4FA /* SongsListVC.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		97A7811B252CC2C7007CB8F9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97A7811C252CC2C7007CB8F9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		97A78120252CC2C9007CB8F9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				97A78121252CC2C9007CB8F9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		97A78124252CC2C9007CB8F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		97A78125252CC2C9007CB8F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		97A78127252CC2C9007CB8F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C89Y3B6NMY;
+				INFOPLIST_FILE = "ios-hw4-p1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hussain.ios-hw4-p1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		97A78128252CC2C9007CB8F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C89Y3B6NMY;
+				INFOPLIST_FILE = "ios-hw4-p1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hussain.ios-hw4-p1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		97A7810D252CC2C7007CB8F9 /* Build configuration list for PBXProject "ios-hw4-p1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97A78124252CC2C9007CB8F9 /* Debug */,
+				97A78125252CC2C9007CB8F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		97A78126252CC2C9007CB8F9 /* Build configuration list for PBXNativeTarget "ios-hw4-p1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				97A78127252CC2C9007CB8F9 /* Debug */,
+				97A78128252CC2C9007CB8F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 97A7810A252CC2C7007CB8F9 /* Project object */;
+}
