@@ -22,13 +22,13 @@
 		97A78122252CC2C9007CB8F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97A78120252CC2C9007CB8F9 /* LaunchScreen.storyboard */; };
 		97DF31A6253382A30055C8A9 /* Naruto1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF319D253382A30055C8A9 /* Naruto1.mp3 */; };
 		97DF31A7253382A30055C8A9 /* Naruto2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF319E253382A30055C8A9 /* Naruto2.mp3 */; };
-		97DF31A8253382A30055C8A9 /* KNB2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF319F253382A30055C8A9 /* KNB2.mp3 */; };
 		97DF31A9253382A30055C8A9 /* OP3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A0253382A30055C8A9 /* OP3.mp3 */; };
 		97DF31AA253382A30055C8A9 /* KNB1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A1253382A30055C8A9 /* KNB1.mp3 */; };
 		97DF31AB253382A30055C8A9 /* OP1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A2253382A30055C8A9 /* OP1.mp3 */; };
 		97DF31AC253382A30055C8A9 /* OP2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A3253382A30055C8A9 /* OP2.mp3 */; };
 		97DF31AD253382A30055C8A9 /* KNB3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A4253382A30055C8A9 /* KNB3.mp3 */; };
 		97DF31AE253382A30055C8A9 /* Naruto3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31A5253382A30055C8A9 /* Naruto3.mp3 */; };
+		97DF31B225338A4E0055C8A9 /* KNB2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 97DF31B125338A4E0055C8A9 /* KNB2.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,13 +49,13 @@
 		97A78123252CC2C9007CB8F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97DF319D253382A30055C8A9 /* Naruto1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Naruto1.mp3; path = ../../../../Music/Naruto1.mp3; sourceTree = "<group>"; };
 		97DF319E253382A30055C8A9 /* Naruto2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Naruto2.mp3; path = ../../../../Music/Naruto2.mp3; sourceTree = "<group>"; };
-		97DF319F253382A30055C8A9 /* KNB2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB2.mp3; path = ../../../../Music/KNB2.mp3; sourceTree = "<group>"; };
 		97DF31A0253382A30055C8A9 /* OP3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = OP3.mp3; path = ../../../../Music/OP3.mp3; sourceTree = "<group>"; };
 		97DF31A1253382A30055C8A9 /* KNB1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB1.mp3; path = ../../../../Music/KNB1.mp3; sourceTree = "<group>"; };
 		97DF31A2253382A30055C8A9 /* OP1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = OP1.mp3; path = ../../../../Music/OP1.mp3; sourceTree = "<group>"; };
 		97DF31A3253382A30055C8A9 /* OP2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = OP2.mp3; path = ../../../../Music/OP2.mp3; sourceTree = "<group>"; };
 		97DF31A4253382A30055C8A9 /* KNB3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB3.mp3; path = ../../../../Music/KNB3.mp3; sourceTree = "<group>"; };
 		97DF31A5253382A30055C8A9 /* Naruto3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Naruto3.mp3; path = ../../../../Music/Naruto3.mp3; sourceTree = "<group>"; };
+		97DF31B125338A4E0055C8A9 /* KNB2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = KNB2.mp3; path = ../../../../Music/KNB2.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,7 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				97DF31A1253382A30055C8A9 /* KNB1.mp3 */,
-				97DF319F253382A30055C8A9 /* KNB2.mp3 */,
+				97DF31B125338A4E0055C8A9 /* KNB2.mp3 */,
 				97DF31A4253382A30055C8A9 /* KNB3.mp3 */,
 				97DF319D253382A30055C8A9 /* Naruto1.mp3 */,
 				97DF319E253382A30055C8A9 /* Naruto2.mp3 */,
@@ -215,10 +215,10 @@
 				97DF31AC253382A30055C8A9 /* OP2.mp3 in Resources */,
 				97A78122252CC2C9007CB8F9 /* LaunchScreen.storyboard in Resources */,
 				97A7811F252CC2C9007CB8F9 /* Assets.xcassets in Resources */,
+				97DF31B225338A4E0055C8A9 /* KNB2.mp3 in Resources */,
 				97DF31AA253382A30055C8A9 /* KNB1.mp3 in Resources */,
 				97A7811D252CC2C7007CB8F9 /* Main.storyboard in Resources */,
 				97DF31A9253382A30055C8A9 /* OP3.mp3 in Resources */,
-				97DF31A8253382A30055C8A9 /* KNB2.mp3 in Resources */,
 				97DF31AB253382A30055C8A9 /* OP1.mp3 in Resources */,
 				97DF31A6253382A30055C8A9 /* Naruto1.mp3 in Resources */,
 				97DF31AE253382A30055C8A9 /* Naruto3.mp3 in Resources */,
